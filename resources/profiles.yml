@@ -1,0 +1,4 @@
+profiles:
+  - id: example-jenkins
+    username: example-user
+    token: ""

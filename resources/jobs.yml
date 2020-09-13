@@ -1,0 +1,5 @@
+jobs:
+  - server: http://jenkins.try.now
+    profileId: example-profile
+    job: example/example
+    artifactName: example.phar
